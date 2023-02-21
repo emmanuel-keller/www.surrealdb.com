@@ -19,6 +19,7 @@ module.exports = function (defaults) {
 				'swift',
 				'typescript',
 			],
+			copyToClipboard: true,
 		},
 		snippetPaths: ['app/snippets'],
 		snippetRegexes: {

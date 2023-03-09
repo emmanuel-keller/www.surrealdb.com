@@ -110,6 +110,7 @@ Router.map(function() {
 				});
 
 				this.route('remove');
+				this.route('sleep');
 				
 			});
 
@@ -128,6 +129,7 @@ Router.map(function() {
 				this.route('time');
 				this.route('type');
 				this.route('script');
+				this.route('sleep');
 			});
 
 		});
